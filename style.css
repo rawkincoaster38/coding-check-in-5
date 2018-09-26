@@ -10,19 +10,43 @@ btw, this is a CSS comment. Feel free to delete it.
  */
 
 h1 {
-font-weight: 600;
+font-weight: 800;
 font-family: "Apple Chancery", sans-serif;
-
+color: #800000;
+text-align: center;
 }
 
 h2 {
-font-weight: 500;
+font-weight: 700;
 font-family: "Apple Chancery", sans-serif;
-
+color: #FF0000;
+text-align: center;
 }
 
 h3 {
-font-weight: 400;
-font-family: cursive;
-  
+font-weight: 600;
+font-family: serif;
+  color: #FFA500;
+  text-align: center;
+}
+
+h4 {
+font-weight: 500;
+font-family: serif;
+color: #800080;
+text-align: center;
+}
+
+ul {
+font-family: serif;
+text-align: left;
+line-height: 3em;
+list-style-type: circle;
+
+}
+
+p {
+font-family: serif;
+text-align: justify;
+
 }
