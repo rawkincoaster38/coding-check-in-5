@@ -34,7 +34,8 @@ h4 {
 font-weight: 500;
 font-family: serif;
 color: #800080;
-text-align: center;
+text-align: left;
+margin: 10px 50px 20px;
 }
 
 h5 {
