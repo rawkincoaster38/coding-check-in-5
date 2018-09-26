@@ -10,8 +10,8 @@ btw, this is a CSS comment. Feel free to delete it.
  */
 
 h1 {
-font-weight: 800;
-font-family: "Apple Chancery", sans-serif;
+font-weight: 900;
+font-family: "Helvetica", sans-serif;
 color: #800000;
 text-align: center;
 }
@@ -40,13 +40,13 @@ text-align: center;
 ul {
 font-family: serif;
 text-align: left;
-line-height: 3em;
+line-height: 1em;
 list-style-type: circle;
 
 }
 
 p {
 font-family: serif;
-text-align: justify;
-text-indent: 30%
+text-align: left;
+text-indent: 5%
 }
