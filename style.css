@@ -51,14 +51,14 @@ text-align: center;
 ul {
 font-family: serif;
 text-align: left;
-line-height: 1em;
+line-height: 1.5em;
 list-style-type: circle;
 
 }
 
-p {
+article {
 font-family: serif;
 text-align: left;
 text-indent: 10%
-margin: 10px 70px 10px 0;
+margin: 10px 90px 10px 0;
 }
